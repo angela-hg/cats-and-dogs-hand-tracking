@@ -46,20 +46,28 @@ cats-and-dogs-hand-tracking/
 ```bash
 git clone https://github.com/angela-hg/cats-and-dogs-hand-tracking.git
 cd cats-and-dogs-hand-tracking
+```
 
 
 ### 2. Set up a virtual environment (recommended)
+```bash
 python -m venv .venv
 # Windows
 .venv\Scripts\activate
 # macOS/Linux
 source .venv/bin/activate
+```
 
 ### 3. Install dependencies
+```bash
 pip install -r requirements.txt
+```
+
 
 ### 4. Run the game
+```bash
 python src/main.py
+```
 
 
 💡 If macOS asks for camera permissions, grant access to your terminal or IDE in System Settings → Privacy & Security → Camera.
