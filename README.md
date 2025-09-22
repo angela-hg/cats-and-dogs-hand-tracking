@@ -25,17 +25,17 @@ A Python game where you control a cat with your index finger using your webcam. 
 
 ## 📂 Project Structure  
 
-cats-and-dogs-hand-tracking/
-├─ assets/ # Images and music
-│ ├─ cat.png
-│ ├─ dog.png
-│ └─ cat_song.wav
-├─ src/
-│ └─ main.py # Game entry point
-├─ requirements.txt # Dependencies
-├─ README.md
-├─ .gitignore
-└─ LICENSE
+cats-and-dogs-hand-tracking/  
+├─ assets/ # Images and music  
+│ ├─ cat.png  
+│ ├─ dog.png  
+│ └─ cat_song.wav  
+├─ src/  
+│ └─ main.py # Game entry point  
+├─ requirements.txt # Dependencies  
+├─ README.md  
+├─ .gitignore  
+└─ LICENSE  
 
 
 ---
